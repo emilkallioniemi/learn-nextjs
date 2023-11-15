@@ -11,7 +11,7 @@ This is Sven's personal branch in our Next.js Learning Journey. Here, I document
 - [x] Chapter 3: Getting started with React
 - [x] Chapter 4: Essential JavaScript for React
 - [x] Chapter 5: Building UI with Components
-- [ ] Chapter 6: Displaying Data with Props
+- [x] Chapter 6: Displaying Data with Props
 - [ ] Chapter 7: Adding Interactivity with State
 - [ ] Chapter 8: From React to Next.js
 - [ ] Chapter 9: Installing Next.js
