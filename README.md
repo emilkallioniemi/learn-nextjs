@@ -1,14 +1,36 @@
-# Next.js Learning Journey
+# Emil's Next.js Progress
 
 ## Introduction
 
-Welcome to our Next.js Learning Journey! This repository is a collaborative project between myself (Emil) and my cousin (Sven). We're both diving into the world of Next.js, guided by the latest e-book from [nextjs.org/learn](https://nextjs.org/learn). This repository is our shared space for documenting our individual progress, exploring different solutions, and learning from each other.
+This is Emil's personal branch in our Next.js Learning Journey. Here, I document my progress through the e-book available on [nextjs.org/learn](https://nextjs.org/learn), tracking the chapters I've completed and sharing my unique solutions and notes.
 
-Our goal is to master Next.js by engaging with the e-book, experimenting with its features, and building projects. We aim to develop our skills in web development and understand the diverse applications of Next.js through collaborative learning.
+## React
 
-## Branches for Individual Work
+- [ ] Chapter 1: Rendering User Interfaces
+- [ ] Chapter 2: Updating UI with JavaScript
+- [ ] Chapter 3: Getting started with React
+- [ ] Chapter 4: Essential JavaScript for React
+- [ ] Chapter 5: Building UI with Components
+- [ ] Chapter 6: Displaying Data with Props
+- [ ] Chapter 7: Adding Interactivity with State
+- [ ] Chapter 8: From React to Next.js
+- [ ] Chapter 9: Installing Next.js
 
-- **Branch "emil"**: This branch contains all of my (Emil's) work. It includes my interpretations of the exercises, my code, and personal notes. It's a space for me to track my own progress and learning journey.
-- **Branch "sven"**: Sven's work is housed in this branch. It showcases his approach to the same exercises and material, providing a different perspective and solutions.
+## Next.js
 
-By maintaining separate branches, we can both follow the guide independently while having the opportunity to review and learn from each other's code and approaches.
+- [ ] Chapter 1: Getting Started
+- [ ] Chapter 2: CSS Styling
+- [ ] Chapter 3: Optimizing Font and Images
+- [ ] Chapter 4: Creating Layouts and Pages
+- [ ] Chapter 5: Navigating Between Pages
+- [ ] Chapter 6: Setting Up Your Database
+- [ ] Chapter 7: Fetching Data
+- [ ] Chapter 8: Static and Dynamic Rendering
+- [ ] Chapter 9: Streaming
+- [ ] Chapter 10: Partial Prerendering
+- [ ] Chapter 11: Adding Search and Pagination
+- [ ] Chapter 12: Mutating Data
+- [ ] Chapter 13: Handling Errors
+- [ ] Chapter 14: Improving Accessibility
+- [ ] Chapter 15: Adding Authentication
+- [ ] Chapter 16: Adding Metadata
