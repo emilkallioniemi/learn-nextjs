@@ -7,7 +7,7 @@ This is Sven's personal branch in our Next.js Learning Journey. Here, I document
 ## React
 
 - [x] Chapter 1: Rendering User Interfaces
-- [ ] Chapter 2: Updating UI with JavaScript
+- [x] Chapter 2: Updating UI with JavaScript
 - [ ] Chapter 3: Getting started with React
 - [ ] Chapter 4: Essential JavaScript for React
 - [ ] Chapter 5: Building UI with Components
