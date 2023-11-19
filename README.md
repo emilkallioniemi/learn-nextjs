@@ -12,7 +12,7 @@ This is Emil's personal branch in our Next.js Learning Journey. Here, I document
 - [x] Chapter 4: Essential JavaScript for React
 - [x] Chapter 5: Building UI with Components
 - [x] Chapter 6: Displaying Data with Props
-- [ ] Chapter 7: Adding Interactivity with State
+- [x] Chapter 7: Adding Interactivity with State
 - [ ] Chapter 8: From React to Next.js
 - [ ] Chapter 9: Installing Next.js
 
