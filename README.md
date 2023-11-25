@@ -18,7 +18,7 @@ This is Sven's personal branch in our Next.js Learning Journey. Here, I document
 
 ## Next.js
 
-- [ ] Chapter 1: Getting Started
+- [x] Chapter 1: Getting Started
 - [ ] Chapter 2: CSS Styling
 - [ ] Chapter 3: Optimizing Font and Images
 - [ ] Chapter 4: Creating Layouts and Pages
